@@ -6,6 +6,6 @@
 
 📖 &ensp; Find my research [here](https://scholar.google.com/citations?user=JTbgc5kAAAAJ&hl=en)
 
-📫 &ensp; Get un touch at **william.matlock [at] ndm.ox.ac.uk**
+📫 &ensp; Get in touch at **william.matlock [at] ndm.ox.ac.uk**
 
 🐦 &ensp; Follow me on Twitter at [@wtmatlock](https://mobile.twitter.com/wtmatlock)
