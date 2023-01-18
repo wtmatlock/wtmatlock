@@ -1,6 +1,6 @@
 ## William Matlock (he/him) &ensp; ◎ &ensp; Computational Biologist &ensp; ◎ &ensp; University of Oxford
 ###
-🤔 &ensp; Final-year DPhil student interested in AMR and mobile genetic elements
+🤔 &ensp; Final-year DPhil student interested in antimicrobial resistance and mobile genetic elements
 
 📍 &ensp; Modernising Medical Microbiology, Wadham College, University of Oxford, UK
 
