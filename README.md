@@ -4,7 +4,10 @@
 
 📍 &ensp; Modernising Medical Microbiology, Wadham College, University of Oxford, UK
 
-📖 &ensp; Find my research [here](https://scholar.google.com/citations?user=JTbgc5kAAAAJ&hl=en)
+💊 &ensp; Funded by the [National PhD Training Programme in
+Antimicrobial Resistance Research](https://amrtraining.ac.uk)
+
+📖 &ensp; Find my research on [Google Scholar](https://scholar.google.com/citations?user=JTbgc5kAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-5608-0423)
 
 📫 &ensp; Get in touch at **william.matlock [at] ndm.ox.ac.uk**
 
