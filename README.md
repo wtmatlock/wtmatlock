@@ -2,7 +2,7 @@
 ###
 🤔 &ensp; Final-year DPhil student interested in antimicrobial resistance and mobile genetic elements
 
-📍 &ensp; Modernising Medical Microbiology, Wadham College, University of Oxford, UK
+📍 &ensp; Modernising Medical Microbiology + Wadham College, University of Oxford, UK
 
 💊 &ensp; Funded by the [National PhD Training Programme in
 Antimicrobial Resistance Research](https://amrtraining.ac.uk)
